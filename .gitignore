@@ -73,5 +73,3 @@ coverage/
 
 # Miscellaneous
 .sass-cache/
-*.lock
-composer.lock
